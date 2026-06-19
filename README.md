@@ -10,6 +10,6 @@
 ![Youtube](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/960px-YouTube_social_white_square_%282024%29.svg.png)
 
 **Uso de citas**
-> Miren este video!
-> El mejor rewin de todos!!
-> La mejor plataforma para ver videos!!
+> Miren este video
+> El mejor rewin de todos
+> La mejor plataforma para ver videos
